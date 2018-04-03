@@ -1,0 +1,6 @@
+int stops;
+stops = 2;
+stops = 5;
+stops = stops +2
+String name;
+name = "Bill"
