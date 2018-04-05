@@ -37,3 +37,4 @@ double fahrenheit = 32.0;
 double celsius = (fahrenheit - 32) * 5 / 9;
 System.out.println(fahrenheit);
 // prints 0
+
