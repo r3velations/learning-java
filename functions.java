@@ -11,4 +11,18 @@ public void playMusic() {
 }
 
 // calling the function
-playMusic()
+playMusic();
+
+// now me having a bit of fun with it.
+
+boolean libtard = true;
+
+public void isLibtarded() {
+    if (libtard) {
+        System.out.println("Racist! Bigot!! Homophobe!!! Trump is literally Hitler. Guns are bad. derp derp derp");
+    } else {
+        System.out.println("I don't agree with you, but you are free to feel however you want.")    
+    }
+}
+
+isLibtarded();

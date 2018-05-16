@@ -3,7 +3,7 @@ boolean homesteadExempt = false;
 double collinCountyRate = 0.192246;
 double collinCollegeRate = 0.79810;
 
-string city = "McKinney";
+String city = "McKinney";
 double cityTaxRate;
 
 switch(city) {
@@ -22,7 +22,7 @@ switch(city) {
     default: cityTaxRate = 0.000;
 }
 
-string schoolDistrict = "McKinney";
+String schoolDistrict = "McKinney";
 int isdTaxRate;
 
 switch(schoolDistrict) { 
